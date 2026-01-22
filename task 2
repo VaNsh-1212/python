@@ -4,3 +4,8 @@ last_name = input("enter your last name:")
 print("hello friends,my name is", first_name ,"and my last name is", last_name)
 
 
+output:
+
+enter your first name: vansh
+enter your last name: chanchad 
+hello freinds my name is vansh and my last name is chanchad
