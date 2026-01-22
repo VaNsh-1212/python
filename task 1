@@ -10,3 +10,13 @@ print("multiplication is:", multiplication)
 division = num1 / num2
 print("division is:", division)
 
+
+output:
+
+enter first number:10
+enter second number:5
+
+addition is : 15
+subtraction is: 5
+multiplication is: 50
+division is: 2
